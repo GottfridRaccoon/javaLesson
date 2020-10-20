@@ -25,6 +25,7 @@ public class Figure
        }
         return areaval ;
       }
+     
 
     
    
